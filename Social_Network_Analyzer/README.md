@@ -105,7 +105,13 @@ Once the program is built, use the following commands in the interactive CLI:
 
 ---
 
-## 5. Troubleshooting / Known Issues
+## 5. Demo
+
+[Watch the demo video](demo.mp4)
+
+---
+
+## 6. Troubleshooting / Known Issues
 
 - No known issues at this time
 - If `g++` is not recognized on Windows, ensure MinGW-w64 is installed and its `bin` directory is added to your system `PATH`
